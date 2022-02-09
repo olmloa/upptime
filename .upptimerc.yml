@@ -9,7 +9,7 @@ sites:
     url: https://distribuidoravit.com
   - name: Panama Shopping Import
     url: https://panamashoppingimport.com
-    maxResponseTime: 5000
+    maxResponseTime: 7000
   - name: Framart Group
     url: https://framartgroup.com
   - name: MediaNet
@@ -21,15 +21,15 @@ sites:
     
 
 status-website:
-  theme: dark
+  theme: ocean
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: webstatus.thecyberss.com
   baseUrl: /
-  logoUrl: https://github.com/olmloa/upptime/blob/master/assets/logo.png
+  # logoUrl: https://cyberservicess.com/logo1.png
   name: Estado de Sitios Web
   introTitle: "**WebStatus** es el monitor de tiempo de actividad de código abierto y la página de estado, impulsado completamente por GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introMessage: Bienvenidos a nuestro portal de uptime o tiempo de vida de nuestros sitios web. Aquí podrá saber cuando tiempo estuvo al aire su sitio web desarrollados por nuestro equipo de desarrolladores.
   navbar:
     - title: Estado
       href: /
