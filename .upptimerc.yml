@@ -22,19 +22,20 @@ sites:
 
 status-website:
   theme: ocean
+  favicon: https://cyberservicess.com/storage/app/media/favicon.png
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: webstatus.thecyberss.com
   baseUrl: /
-  # logoUrl: https://cyberservicess.com/logo1.png
+  logoUrl: https://cyberservicess.com/storage/app/media/logo.png
   name: Estado de Sitios Web
   introTitle: "**WebStatus** es el monitor de tiempo de actividad de código abierto y la página de estado, impulsado completamente por GitHub."
   introMessage: Bienvenidos a nuestro portal de uptime o tiempo de vida de nuestros sitios web. Aquí podrá saber cuando tiempo estuvo al aire su sitio web desarrollados por nuestro equipo de desarrolladores.
   navbar:
     - title: Estado
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+    - title: Sitio Web 
+      href: https://cyberservicess.com/
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
