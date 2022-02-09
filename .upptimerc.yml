@@ -27,7 +27,7 @@ status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: webstatus.thecyberss.com
-  baseUrl: /upptime
+  baseUrl: /
   logoUrl: https://github.com/olmloa/upptime/blob/master/assets/logo.png
   name: Estado de Sitios Web
   introTitle: "**WebStatus** es el monitor de tiempo de actividad de código abierto y la página de estado, impulsado completamente por GitHub."
