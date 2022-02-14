@@ -9,7 +9,6 @@ sites:
     url: https://distribuidoravit.com
   - name: Panama Shopping Import
     url: https://panamashoppingimport.com
-    maxResponseTime: 7000
   - name: Framart Group
     url: https://framartgroup.com
   - name: MediaNet
