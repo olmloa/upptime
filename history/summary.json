@@ -22,19 +22,19 @@
     "url": "https://distribuidoravit.com",
     "icon": "https://favicons.githubusercontent.com/distribuidoravit.com",
     "slug": "distribuidora-vit",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 6538,
-    "timeDay": 4796,
-    "timeWeek": 7747,
-    "timeMonth": 6538,
-    "timeYear": 6538,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "99.50%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 6606,
+    "timeDay": 5964,
+    "timeWeek": 7809,
+    "timeMonth": 6606,
+    "timeYear": 6606,
     "dailyMinutesDown": {
-      "2022-02-24": 1
+      "2022-02-24": 7
     }
   },
   {
@@ -54,7 +54,7 @@
     "timeMonth": 5841,
     "timeYear": 5841,
     "dailyMinutesDown": {
-      "2022-02-24": 216,
+      "2022-02-24": 223,
       "2022-02-23": 1440,
       "2022-02-22": 1440,
       "2022-02-21": 1440,
