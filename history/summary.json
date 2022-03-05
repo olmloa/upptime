@@ -22,10 +22,10 @@
     "url": "https://distribuidoravit.com",
     "icon": "https://favicons.githubusercontent.com/distribuidoravit.com",
     "slug": "distribuidora-vit",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 7115,
@@ -33,7 +33,9 @@
     "timeWeek": 7993,
     "timeMonth": 7115,
     "timeYear": 7115,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-05": 1
+    }
   },
   {
     "name": "Panama Shopping Import",
@@ -52,7 +54,7 @@
     "timeMonth": 5042,
     "timeYear": 5042,
     "dailyMinutesDown": {
-      "2022-03-05": 36,
+      "2022-03-05": 1328,
       "2022-03-04": 1440,
       "2022-03-03": 1440,
       "2022-03-02": 1440,
