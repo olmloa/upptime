@@ -56,7 +56,7 @@
     "timeMonth": 2251,
     "timeYear": 4593,
     "dailyMinutesDown": {
-      "2022-03-12": 881,
+      "2022-03-12": 1022,
       "2022-03-11": 1440,
       "2022-03-10": 1440,
       "2022-03-09": 1440,
@@ -95,19 +95,19 @@
     "url": "https://framartgroup.com",
     "icon": "https://favicons.githubusercontent.com/framartgroup.com",
     "slug": "framart-group",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 3188,
-    "timeDay": 3465,
-    "timeWeek": 2872,
-    "timeMonth": 3407,
-    "timeYear": 3188,
+    "status": "up",
+    "uptime": "99.69%",
+    "uptimeDay": "90.22%",
+    "uptimeWeek": "98.60%",
+    "uptimeMonth": "99.68%",
+    "uptimeYear": "99.69%",
+    "time": 3119,
+    "timeDay": 1914,
+    "timeWeek": 2559,
+    "timeMonth": 3306,
+    "timeYear": 3119,
     "dailyMinutesDown": {
-      "2022-03-12": 0
+      "2022-03-12": 141
     }
   },
   {
