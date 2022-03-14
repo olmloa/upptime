@@ -57,7 +57,8 @@
     "timeMonth": 875,
     "timeYear": 4483,
     "dailyMinutesDown": {
-      "2022-03-13": 1422,
+      "2022-03-14": 38,
+      "2022-03-13": 1440,
       "2022-03-12": 1440,
       "2022-03-11": 1440,
       "2022-03-10": 1440,
@@ -118,19 +119,17 @@
     "icon": "https://favicons.githubusercontent.com/medianet-pa.com",
     "slug": "media-net",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.59%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 2443,
     "timeDay": 1271,
     "timeWeek": 1045,
     "timeMonth": 2675,
     "timeYear": 2443,
-    "dailyMinutesDown": {
-      "2022-03-13": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "TecniDental",
