@@ -57,7 +57,7 @@
     "timeMonth": 890,
     "timeYear": 4443,
     "dailyMinutesDown": {
-      "2022-03-15": 226,
+      "2022-03-15": 231,
       "2022-03-14": 1440,
       "2022-03-13": 1440,
       "2022-03-12": 1440,
@@ -119,19 +119,19 @@
     "url": "https://medianet-pa.com",
     "icon": "https://favicons.githubusercontent.com/medianet-pa.com",
     "slug": "media-net",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2588,
-    "timeDay": 5785,
-    "timeWeek": 2103,
-    "timeMonth": 2938,
-    "timeYear": 2588,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.63%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 2618,
+    "timeDay": 5184,
+    "timeWeek": 2291,
+    "timeMonth": 2971,
+    "timeYear": 2618,
     "dailyMinutesDown": {
-      "2022-03-15": 0
+      "2022-03-15": 5
     }
   },
   {
