@@ -1,6 +1,7 @@
 # Change these first
 owner: olmloa # Your GitHub organization or username, where this repository lives
 repo: upptime # The name of this repository
+user-agent: jayantkatia
 
 sites:
   - name: Cyber Services Supply
@@ -9,6 +10,7 @@ sites:
     url: https://distribuidoravit.com
   - name: Panama Shopping Import
     url: https://panamashoppingimport.com
+    check: tcp-ping
     headers:
       - "User-Agent: olmloa uptime"
   - name: Framart Group
