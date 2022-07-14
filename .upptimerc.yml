@@ -6,6 +6,10 @@ user-agent: jayantkatia
 sites:
   - name: Cyber Services Supply
     url: https://cyberservicess.com/
+  - name: Emalogix
+    url: https://emalogix.com
+  - name: Kpitale
+    url: https://kpitale.com    
   - name: Distribuidora Vit
     url: https://distribuidoravit.com
   - name: Panama Shopping Import
