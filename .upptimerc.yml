@@ -14,9 +14,6 @@ sites:
     url: https://kpitale.com    
   - name: Distribuidora Vit
     url: https://distribuidoravit.com
-  - name: Panama Shopping Import
-    url: https://panamashoppingimport.com
-    check: tcp-ping
   - name: Framart Group
     url: https://framartgroup.com
   - name: MediaNet
