@@ -21,7 +21,8 @@ sites:
   - name: Bits Hits Radio
     url: https://bitshitsradio.com
   - name: Panama Shopping Import
-    url: https://panamashoppingimport.com
+    url: https://panamashoppingimport.com 
+    maxResponseTime: 5000
     
 
 status-website:
