@@ -22,6 +22,7 @@ sites:
     url: https://bitshitsradio.com
   - name: Panama Shopping Import
     url: https://panamashoppingimport.com 
+    check: "tcp-ping"
     maxResponseTime: 5000
     
 
