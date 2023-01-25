@@ -4,10 +4,10 @@
     "url": "https://cyberservicess.com/",
     "icon": "https://icons.duckduckgo.com/ip3/cyberservicess.com.ico",
     "slug": "cyber-services-supply",
-    "status": "up",
+    "status": "down",
     "uptime": "99.24%",
-    "uptimeDay": "99.82%",
-    "uptimeWeek": "97.42%",
+    "uptimeDay": "99.73%",
+    "uptimeWeek": "97.41%",
     "uptimeMonth": "98.67%",
     "uptimeYear": "99.24%",
     "time": 631,
@@ -16,7 +16,7 @@
     "timeMonth": 1290,
     "timeYear": 631,
     "dailyMinutesDown": {
-      "2023-01-25": 3,
+      "2023-01-25": 4,
       "2023-01-18": 257,
       "2023-01-12": 322,
       "2022-12-10": 58,
@@ -35,10 +35,10 @@
     "url": "https://donasclothes.com",
     "icon": "https://icons.duckduckgo.com/ip3/donasclothes.com.ico",
     "slug": "donas-clothes",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "99.85%",
-    "uptimeWeek": "99.98%",
+    "uptimeDay": "99.77%",
+    "uptimeWeek": "99.97%",
     "uptimeMonth": "99.71%",
     "uptimeYear": "99.91%",
     "time": 1657,
@@ -47,7 +47,7 @@
     "timeMonth": 1590,
     "timeYear": 1657,
     "dailyMinutesDown": {
-      "2023-01-25": 2,
+      "2023-01-25": 3,
       "2023-01-12": 125
     }
   },
@@ -56,10 +56,10 @@
     "url": "https://kpitale.com",
     "icon": "https://icons.duckduckgo.com/ip3/kpitale.com.ico",
     "slug": "kpitale",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "99.88%",
-    "uptimeWeek": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.97%",
     "time": 964,
@@ -68,7 +68,6 @@
     "timeMonth": 3177,
     "timeYear": 964,
     "dailyMinutesDown": {
-      "2023-01-25": 2,
       "2023-01-09": 27,
       "2022-07-26": 70
     }
@@ -239,7 +238,7 @@
     "timeMonth": 0,
     "timeYear": 3720,
     "dailyMinutesDown": {
-      "2023-01-25": 474,
+      "2023-01-25": 498,
       "2023-01-24": 1440,
       "2023-01-23": 1440,
       "2023-01-22": 1440,
