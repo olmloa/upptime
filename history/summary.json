@@ -141,8 +141,8 @@
     "slug": "media-net",
     "status": "up",
     "uptime": "96.13%",
-    "uptimeDay": "99.83%",
-    "uptimeWeek": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "81.74%",
     "uptimeYear": "95.97%",
     "time": 6291,
@@ -151,7 +151,6 @@
     "timeMonth": 6864,
     "timeYear": 6507,
     "dailyMinutesDown": {
-      "2023-02-23": 2,
       "2023-02-12": 189,
       "2023-02-11": 1440,
       "2023-02-10": 1440,
@@ -217,18 +216,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/bitshitsradio.com.ico",
     "slug": "bits-hits-radio",
     "status": "down",
-    "uptime": "98.43%",
+    "uptime": "98.42%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "26.63%",
-    "uptimeMonth": "83.12%",
-    "uptimeYear": "98.37%",
+    "uptimeWeek": "25.74%",
+    "uptimeMonth": "82.91%",
+    "uptimeYear": "98.35%",
     "time": 246,
     "timeDay": 0,
     "timeWeek": 217,
     "timeMonth": 257,
     "timeYear": 245,
     "dailyMinutesDown": {
-      "2023-02-23": 1393,
+      "2023-02-24": 43,
+      "2023-02-23": 1440,
       "2023-02-22": 1440,
       "2023-02-21": 1440,
       "2023-02-20": 1440,
@@ -261,7 +261,8 @@
     "timeMonth": 0,
     "timeYear": 1685,
     "dailyMinutesDown": {
-      "2023-02-23": 1393,
+      "2023-02-24": 43,
+      "2023-02-23": 1440,
       "2023-02-22": 1440,
       "2023-02-21": 1440,
       "2023-02-20": 1440,
@@ -539,8 +540,7 @@
       "2022-02-28": 1440,
       "2022-02-27": 1440,
       "2022-02-26": 1440,
-      "2022-02-25": 1440,
-      "2022-02-24": 1440
+      "2022-02-25": 1440
     }
   }
 ]
