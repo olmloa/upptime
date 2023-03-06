@@ -18,12 +18,7 @@ sites:
     url: https://medianet-pa.com
   - name: TecniDental
     url: https://tecnidentalpa.com
-  - name: Bits Hits Radio
-    url: https://bitshitsradio.com
-  - name: Panama Shopping Import
-    url: https://panamashoppingimport.com 
-    check: "tcp-ping"
-    maxResponseTime: 5000
+
     
 
 status-website:
