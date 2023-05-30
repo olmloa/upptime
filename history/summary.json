@@ -138,15 +138,15 @@
     "url": "https://medianet-pa.com",
     "icon": "https://icons.duckduckgo.com/ip3/medianet-pa.com.ico",
     "slug": "media-net",
-    "status": "up",
-    "uptime": "99.53%",
-    "uptimeDay": "66.74%",
+    "status": "down",
+    "uptime": "99.54%",
+    "uptimeDay": "66.72%",
     "uptimeWeek": "79.01%",
-    "uptimeMonth": "92.70%",
-    "uptimeYear": "99.39%",
+    "uptimeMonth": "92.81%",
+    "uptimeYear": "99.40%",
     "time": 16113,
-    "timeDay": 27369,
-    "timeWeek": 27103,
+    "timeDay": 27425,
+    "timeWeek": 27107,
     "timeMonth": 26303,
     "timeYear": 18009,
     "dailyMinutesDown": {
@@ -160,7 +160,7 @@
       "2023-05-23": 251,
       "2023-05-22": 441,
       "2023-05-21": 351,
-      "2023-05-20": 74
+      "2023-05-20": 27
     }
   },
   {
