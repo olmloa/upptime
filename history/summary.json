@@ -13,7 +13,7 @@
     "time": 552,
     "timeDay": 314,
     "timeWeek": 282,
-    "timeMonth": 259,
+    "timeMonth": 257,
     "timeYear": 537,
     "dailyMinutesDown": {
       "2023-05-24": 38,
@@ -43,7 +43,7 @@
     "time": 1559,
     "timeDay": 1567,
     "timeWeek": 1545,
-    "timeMonth": 1614,
+    "timeMonth": 1590,
     "timeYear": 1559,
     "dailyMinutesDown": {
       "2023-05-24": 38,
@@ -68,7 +68,7 @@
     "time": 786,
     "timeDay": 630,
     "timeWeek": 736,
-    "timeMonth": 501,
+    "timeMonth": 493,
     "timeYear": 786,
     "dailyMinutesDown": {
       "2023-05-24": 37,
@@ -93,7 +93,7 @@
     "time": 2596,
     "timeDay": 402,
     "timeWeek": 559,
-    "timeMonth": 852,
+    "timeMonth": 862,
     "timeYear": 2179,
     "dailyMinutesDown": {
       "2023-05-24": 37,
@@ -118,7 +118,7 @@
     "time": 1505,
     "timeDay": 619,
     "timeWeek": 480,
-    "timeMonth": 422,
+    "timeMonth": 418,
     "timeYear": 1240,
     "dailyMinutesDown": {
       "2023-05-24": 36,
@@ -140,14 +140,14 @@
     "slug": "media-net",
     "status": "up",
     "uptime": "99.55%",
-    "uptimeDay": "68.05%",
+    "uptimeDay": "71.36%",
     "uptimeWeek": "78.11%",
     "uptimeMonth": "92.91%",
     "uptimeYear": "99.41%",
     "time": 16345,
     "timeDay": 27542,
     "timeWeek": 27088,
-    "timeMonth": 26342,
+    "timeMonth": 26337,
     "timeYear": 18169,
     "dailyMinutesDown": {
       "2023-05-30": 456,
@@ -176,7 +176,7 @@
     "time": 233,
     "timeDay": 253,
     "timeWeek": 209,
-    "timeMonth": 179,
+    "timeMonth": 178,
     "timeYear": 225,
     "dailyMinutesDown": {
       "2023-05-24": 30,
