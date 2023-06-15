@@ -14,7 +14,7 @@
     "timeDay": 259,
     "timeWeek": 276,
     "timeMonth": 246,
-    "timeYear": 532,
+    "timeYear": 533,
     "dailyMinutesDown": {
       "2023-05-24": 38,
       "2023-03-28": 58,
@@ -94,7 +94,7 @@
     "timeDay": 322,
     "timeWeek": 730,
     "timeMonth": 715,
-    "timeYear": 2127,
+    "timeYear": 2125,
     "dailyMinutesDown": {
       "2023-05-24": 37,
       "2023-03-28": 57,
@@ -138,17 +138,17 @@
     "url": "https://medianet-pa.com",
     "icon": "https://icons.duckduckgo.com/ip3/medianet-pa.com.ico",
     "slug": "media-net",
-    "status": "down",
-    "uptime": "99.51%",
-    "uptimeDay": "76.11%",
-    "uptimeWeek": "74.56%",
-    "uptimeMonth": "92.03%",
-    "uptimeYear": "99.34%",
-    "time": 20249,
-    "timeDay": 27557,
-    "timeWeek": 27561,
+    "status": "up",
+    "uptime": "99.50%",
+    "uptimeDay": "76.13%",
+    "uptimeWeek": "74.71%",
+    "uptimeMonth": "91.99%",
+    "uptimeYear": "99.33%",
+    "time": 20268,
+    "timeDay": 27623,
+    "timeWeek": 27568,
     "timeMonth": 27287,
-    "timeYear": 21867,
+    "timeYear": 21874,
     "dailyMinutesDown": {
       "2023-06-15": 322,
       "2023-06-14": 361,
@@ -159,7 +159,7 @@
       "2023-06-09": 312,
       "2023-06-08": 432,
       "2023-06-07": 396,
-      "2023-06-06": 119
+      "2023-06-06": 136
     }
   },
   {
