@@ -13,7 +13,7 @@
     "time": 541,
     "timeDay": 193,
     "timeWeek": 245,
-    "timeMonth": 252,
+    "timeMonth": 254,
     "timeYear": 527,
     "dailyMinutesDown": {
       "2023-05-24": 38,
@@ -43,7 +43,7 @@
     "time": 1539,
     "timeDay": 764,
     "timeWeek": 987,
-    "timeMonth": 1365,
+    "timeMonth": 1391,
     "timeYear": 1539,
     "dailyMinutesDown": {
       "2023-05-24": 38,
@@ -68,7 +68,7 @@
     "time": 768,
     "timeDay": 310,
     "timeWeek": 392,
-    "timeMonth": 536,
+    "timeMonth": 466,
     "timeYear": 768,
     "dailyMinutesDown": {
       "2023-05-24": 37,
@@ -93,7 +93,7 @@
     "time": 2363,
     "timeDay": 1388,
     "timeWeek": 859,
-    "timeMonth": 624,
+    "timeMonth": 639,
     "timeYear": 2073,
     "dailyMinutesDown": {
       "2023-05-24": 37,
@@ -118,7 +118,7 @@
     "time": 1464,
     "timeDay": 297,
     "timeWeek": 392,
-    "timeMonth": 414,
+    "timeMonth": 418,
     "timeYear": 1145,
     "dailyMinutesDown": {
       "2023-05-24": 36,
@@ -138,13 +138,13 @@
     "url": "https://medianet-pa.com",
     "icon": "https://icons.duckduckgo.com/ip3/medianet-pa.com.ico",
     "slug": "media-net",
-    "status": "up",
+    "status": "down",
     "uptime": "99.51%",
-    "uptimeDay": "80.42%",
-    "uptimeWeek": "94.98%",
-    "uptimeMonth": "91.94%",
+    "uptimeDay": "80.41%",
+    "uptimeWeek": "94.97%",
+    "uptimeMonth": "92.00%",
     "uptimeYear": "99.33%",
-    "time": 21080,
+    "time": 21094,
     "timeDay": 27853,
     "timeWeek": 26774,
     "timeMonth": 27350,
@@ -162,7 +162,7 @@
       "2023-06-12": 517,
       "2023-06-11": 313,
       "2023-06-10": 332,
-      "2023-06-09": 225
+      "2023-06-09": 198
     }
   },
   {
