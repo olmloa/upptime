@@ -4,6 +4,10 @@ repo: upptime # The name of this repository
 user-agent: jayantkatia
 
 sites:
+  - name: API FEL
+    check: "tcp-ping"
+    url: 18.234.19.5
+    port: 800
   - name: Cyber Services Supply
     url: https://cyberservicess.com/
   - name: Donas Clothes
