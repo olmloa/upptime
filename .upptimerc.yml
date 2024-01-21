@@ -7,7 +7,7 @@ sites:
   - name: API FEL
     check: "tcp-ping"
     url: 18.234.19.5
-    port: 800
+    port: 8000
   - name: Cyber Services Supply
     url: https://cyberservicess.com/
   - name: Donas Clothes
