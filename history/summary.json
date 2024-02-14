@@ -4,19 +4,19 @@
     "url": "18.234.19.5",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "api-fel",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 33,
+    "status": "up",
+    "uptime": "99.91%",
+    "uptimeDay": "97.80%",
+    "uptimeWeek": "99.69%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.91%",
+    "time": 32,
     "timeDay": 7,
-    "timeWeek": 46,
-    "timeMonth": 33,
-    "timeYear": 33,
+    "timeWeek": 41,
+    "timeMonth": 32,
+    "timeYear": 32,
     "dailyMinutesDown": {
-      "2024-02-14": 0
+      "2024-02-14": 32
     }
   },
   {
